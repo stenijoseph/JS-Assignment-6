@@ -60,6 +60,9 @@
 ## console.log(newr);
 ## console.log(arr);
 
+## 2.quiz
+![screenshot](./quizz.jpeg)
+
 ## 3. Write a JavaScript function to check whether an `input` is an array.
 ```js
 let number=[1,2,3,4,5]
